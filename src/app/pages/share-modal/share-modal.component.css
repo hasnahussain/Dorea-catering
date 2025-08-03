@@ -1,0 +1,5 @@
+/* Optional if using Tailwind or similar */
+.overlay {
+    z-index: 9999;
+  }
+  
